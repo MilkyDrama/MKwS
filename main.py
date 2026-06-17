@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 # Parametry początkowe
 # -------------------------------
 
-T_initial = 300      # temperatura [K]
+T_initial = 288.15      # temperatura [K]
 P_initial = ct.one_atm   # ciśnienie [Pa]
 
 fuels = {
